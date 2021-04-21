@@ -14,6 +14,14 @@ const Index = () => (
   >
     <h1 className="font-bold text-2xl">Buddy and GitKraken demo</h1>
     <p>
+      <img
+        alt="Buddy logo"
+        src="https://blog.knoldus.com/wp-content/uploads/2019/09/buddy.png"
+      />
+      <img
+        alt="GitKraken logo"
+        src="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-hz.png"
+      />
       <span role="img" aria-label="rocket">
         🚀
       </span>
