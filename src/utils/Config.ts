@@ -1,6 +1,6 @@
 export const Config = {
-  site_name: 'Starter',
-  title: 'Nextjs Starter',
-  description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
+  site_name: 'Buddy and GitKraken demo',
+  title: 'A Demo for Buddy CI/CD and GitKraken',
+  description: 'A Demo for Buddy CI/CD and GitKraken with Nextjs, TypeScript with Tailwind CSS',
   locale: 'en',
 };
