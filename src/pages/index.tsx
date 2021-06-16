@@ -23,7 +23,7 @@ const Index = () => (
         🚀
       </span>
       {' '}
-      TEST __ TEST - This is made from the Next.js Boilerplate, a starter code for Next js projects.
+      HI everyone 2021-06-16 - This is made from the Next.js Boilerplate, a starter code for Next js projects.
     </p>
     <p>
       <br />
